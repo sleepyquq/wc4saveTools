@@ -67,7 +67,7 @@ def default_local_state() -> Path:
         / "AppData"
         / "Local"
         / "Packages"
-        / "EasyTech.WorldConqueror4_nz34nvfqxfk3r"
+        / "EasyTech.WorldConqueror4_nz34nvfqxfk3r"   #手动更改这里后面的标识符
         / "LocalState"
     )
 
