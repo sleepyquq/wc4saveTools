@@ -3,7 +3,7 @@
 World Conqueror 4 Microsoft Store save editor.
 
 当前只编辑已经通过实测确认的 headquarter.sav 资源字段：
-- 顶层 field1 内的 field4-field8：截图左上资源栏中的五个主要资源。
+- 顶层 field1 内的 field4-field8：资源栏中的五个主要资源。
 - 顶层 field1 内的 field21：令牌资源，已通过 0 -> 10 领取差分确认。
 
 存档校验：
