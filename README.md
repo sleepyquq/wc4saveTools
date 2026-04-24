@@ -7,7 +7,7 @@
 Microsoft Store 版存档目录：
 
 ```text
-C:\Users\你的用户名\AppData\Local\Packages\EasyTech.WorldConqueror4_nz34nvfqxfk3r\LocalState
+C:\Users\<YourUserName>\AppData\Local\Packages\EasyTech.WorldConqueror4_<PackageIdentifier>\LocalState
 ```
 
 关键文件：
