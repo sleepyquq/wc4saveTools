@@ -44,7 +44,7 @@ KNOWN_FIELDS: dict[str, KnownField] = {
     "resource6": KnownField("resource6", 6, "紫色资源"),
     "resource7": KnownField("resource7", 7, "科技点资源"),
     "resource8": KnownField("resource8", 8, "勋章资源"),
-    "resource21": KnownField("resource21", 21, "令牌资源，领取差分确认"),
+    "resource21": KnownField("resource21", 21, "令牌资源"),
 }
 
 ALIASES = {
